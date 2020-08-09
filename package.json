@@ -1,0 +1,22 @@
+{
+  "name": "one_express",
+  "version": "1.0.0",
+  "description": "express example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vekannan/expressexmpl.git"
+  },
+  "author": "venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vekannan/expressexmpl/issues"
+  },
+  "homepage": "https://github.com/vekannan/expressexmpl#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
